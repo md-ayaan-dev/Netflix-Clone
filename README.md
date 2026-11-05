@@ -54,3 +54,21 @@ A structured footer containing useful links and language selection.
 ## 📂 Project Structure
 
 
+
+## 📸 Project Screenshots
+
+### 🏠 1. Homepage
+![Netflix Homepage](homepage.png)
+
+### 🔥 2. Trending Now
+![Trending Now](trending.png)
+
+### ⭐ 3. More Reasons to Join
+![More Reasons to Join](reasons-to-join.png)
+
+### 📺 4. Enjoy on Your TV
+![Enjoy on Your TV](enjoy-on-tv.png)
+
+### ❓ 5. Frequently Asked Questions & Footer
+![FAQ and Footer](faq-footer.png)
+

@@ -58,7 +58,7 @@ A structured footer containing useful links and language selection.
 ## 📸 Project Screenshots
 
 ### 🏠 1. Homepage
-![Netflix Homepage]()
+![Netflix Homepage](homepage.png)
 
 ### 🔥 2. Trending Now
 ![Trending Now](trending.png)

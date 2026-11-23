@@ -1,6 +1,6 @@
 # 🎬 Netflix Clone – Responsive Website
 
-https://md-ayaan-dev.github.io/Netflix-Clone/
+Live Demo : https://md-ayaan-dev.github.io/Netflix-Clone/
 
 A modern, responsive **Netflix-inspired landing page** built using HTML5 and CSS3. This project recreates the look and feel of Netflix's homepage, featuring a dark theme, trending movies, subscription section, FAQ section, and responsive layouts.
 
